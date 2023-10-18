@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fperbk
+- 👀 I’m interested in learning python 3 and in cyber security 
+- 🌱 I’m currently doing self taught or you can call it learning by myself 
